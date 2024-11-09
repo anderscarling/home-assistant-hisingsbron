@@ -1,0 +1,12 @@
+{
+  "domain": "hisingsbron",
+  "name": "Hisingsbron",
+  "codeowners": [
+    "@ludeeus"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/anderscarling/home-assistant-hisingsbron",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/anderscarling/home-assistant-hisingsbron/issues",
+  "version": "0.0.0"
+}
